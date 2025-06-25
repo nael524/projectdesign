@@ -1,0 +1,27 @@
+h1{
+    font-weight: none;
+    font-size: 40px;
+    color: #ffffff;
+    font-family: 'Inria Serif', serif;
+    margin-left: 40px;
+    position: relative;
+    width: 3000px;
+}
+p{
+    font-weight: bold;
+    font-family: 'Inria Serif',serif;
+    color: #fdfdfd;
+    margin-left: 40px;
+    font-size: 30px;
+
+}
+.rectangle{
+    background-color: #544AEC;
+    width: 300px;
+    height: 1000px;
+     
+}
+.univ{
+    margin-left: 10px;
+    color: black;
+}
